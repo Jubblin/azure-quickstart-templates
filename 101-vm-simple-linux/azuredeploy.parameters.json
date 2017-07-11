@@ -6,10 +6,10 @@
       "value": "ghuser"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "password1234"
     },
     "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "bob1234"
     }
   }
 }
